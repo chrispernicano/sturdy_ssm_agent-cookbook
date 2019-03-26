@@ -1,6 +1,10 @@
 sturdy_ssm_agent cookbook
 ===================
 
+v2.1.1
+------
+* Windows provider does not support :upgrade. Switch to :install
+
 v2.1.0
 ------
 * Support snap & package installs (defaulting to snap)
